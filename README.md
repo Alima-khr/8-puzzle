@@ -1,4 +1,4 @@
-# 8-Puzzle Solver (A* Search)
+# 8-Puzzle Solver
 
 A Python program that solves the 8-puzzle (3×3 sliding tiles) using the A* algorithm with the Manhattan distance heuristic. Each run generates a new random solvable starting position, and the program finds the shortest sequence of moves to the goal.
 
